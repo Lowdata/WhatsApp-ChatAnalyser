@@ -1,0 +1,2 @@
+python-dateutil
+emoji>=1.7.0
