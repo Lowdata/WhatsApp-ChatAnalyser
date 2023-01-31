@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ### Usage
 ----------------------
 ```
-$ git clone https://github.com/PetengDedet/WhatsApp-Analyzer.git
+$ git clone 
 
 $ cd WhatsApp-Analyzer
 $ python whatsapp_analyzer.py chat_example.txt --stopword indonesian 
