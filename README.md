@@ -45,7 +45,7 @@ pip install -r requirements.txt
 $ git clone 
 
 $ cd WhatsApp-Analyzer
-$ python whatsapp_analyzer.py chat_example.txt --stopword indonesian 
+$ python whatsapp_analyzer.py chat_example.txt --stopword hindi 
 ```
 
 ```shell
